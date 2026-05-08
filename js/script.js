@@ -118,4 +118,4 @@
   updateWeather();
   setInterval(updateWeather, 15 * 60 * 1000);
 
-})();
+})();
