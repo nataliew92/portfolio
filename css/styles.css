@@ -1403,6 +1403,10 @@ button,
     padding: var(--space-4) var(--space-4);
   }
 
+  .hero__divider {
+    display: none;
+  }
+
   .hero__picture {
     width: auto;
     max-height: 200px;
@@ -1521,4 +1525,4 @@ button,
     gap: var(--space-5);
     padding: var(--space-5);
   }
-}
+}
